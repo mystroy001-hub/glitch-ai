@@ -1,0 +1,6 @@
+{
+  "name": "Glitch",
+  "description": "Professional black and green terminal AI chatbot screen using custom background bridges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
